@@ -1,0 +1,7 @@
+Here is simple step-by-step instruction:
+
+1. Run a script
+2. Press an "upload audio file" button and specify which audio file you want to transcribe
+3. Press a "transcribe audio into text" button and wait until label "audio is transcribed" is appeared
+4. Click a "write a transcription into docx file" button in order to save a transcription in the .docx file
+
